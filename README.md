@@ -1,0 +1,1 @@
+Going through the Michael Harlt Tutorial on Ruby on Rails: https://www.railstutorial.org/book/beginning
